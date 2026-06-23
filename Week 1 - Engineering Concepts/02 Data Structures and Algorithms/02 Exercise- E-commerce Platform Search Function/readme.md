@@ -15,4 +15,5 @@ You are working on the search functionality of an e-commerce platform. The searc
     - Discuss which algorithm is more suitable for your platform and why.
 
 **Output:**
+
 <img src="output.png" alt="Output Screenshot">
